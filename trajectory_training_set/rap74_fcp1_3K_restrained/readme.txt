@@ -1,0 +1,1 @@
+this directory is a duplicate of /sas_syn/Data_VP/split_trajectories/rap74_fcp1_3K_restrained, except the number of pdb files at each temperature has been cut down from 10000 to 100 (starting from 00_000001.pdb and anding in 19_000099.pdb).
